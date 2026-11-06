@@ -7,5 +7,5 @@ langchain-ollama
 langchain-community
 langgraph
 bcrypt
-streamlit-cookies-manager
+streamlit-cookies-manager-v2
 python-dotenv
