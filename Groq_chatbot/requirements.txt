@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+dotenv
+langchain-groq
+streamlit
+langchain-ollama
+langchain-community
+langgraph
+bcrypt
+streamlit-cookies-manager-v2
+python-dotenv
